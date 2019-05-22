@@ -1,0 +1,24 @@
+.page_wrp {
+margin: 0 auto;
+}
+header {
+height: 130px;
+background-color: #21325a;
+color: aliceblue;
+text-align: center;
+}
+.parameters_wrp {
+margin: 0 auto;
+background-color: green;
+width: 80%;
+}
+.parameters {
+margin: 30px;
+}
+input {
+width: 90%;
+}
+Collapse
+
+
+
